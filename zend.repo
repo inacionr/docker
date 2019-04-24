@@ -1,0 +1,13 @@
+[Zend]
+name=zend-server
+baseurl=http://repos.zend.com/zend-server/5.1.0/rpm/$basearch
+enabled=1
+gpgcheck=1
+gpgkey=http://repos.zend.com/zend.key
+
+[Zend_noarch]
+name=zend-server - noarch
+baseurl=http://repos.zend.com/zend-server/5.1.0/rpm/noarch
+enabled=1
+gpgcheck=1
+gpgkey=http://repos.zend.com/zend.key
